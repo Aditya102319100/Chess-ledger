@@ -22,3 +22,4 @@ The board is represented as an 8x8 array. Move generation happens in two passes:
 
 ## Author
 Aditya Gupta 
+<img width="1113" height="799" alt="Screenshot 2026-08-17 212800" src="https://github.com/user-attachments/assets/634e5a4a-11ba-45df-b986-d77431d1b2d8" />
