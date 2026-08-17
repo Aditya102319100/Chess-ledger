@@ -15,7 +15,7 @@ A fully playable two-player chess game built from scratch in  JavaScript — no 
 HTML · CSS · JavaScript
 
 ## How to Run Locally
-Just open `index.html` in any browser — no build step or dependencies required.
+Just open `chess-ledger.html` in any browser — no build step or dependencies required.
 
 ## How It Works
 The board is represented as an 8x8 array. Move generation happens in two passes: first all *pseudo-legal* moves for a piece are generated (ignoring check), then each candidate is simulated on a cloned board and discarded if it would leave the king in check. This keeps the core rules engine dependency-free while still being fully rule-correct.
